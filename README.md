@@ -52,10 +52,9 @@ xattr -c LimpaMac.sh
 ```
 Nota: Será solicitada a sua senha de administrador (sudo) para limpar caches globais e logs do sistema. Digite sua senha normalmente (os caracteres não aparecem na tela por segurança) e pressione Enter.
 
-⚠️ Aviso Legal
-Este script foi desenvolvido para remover apenas arquivos temporários e caches seguros. Ainda assim, utilize-o por sua conta e risco e certifique-se de salvar seus trabalhos abertos antes de iniciar a limpeza.
+## ⚠️ Aviso Legal
+* Este script foi desenvolvido para remover apenas arquivos temporários e caches seguros. Ainda assim, utilize-o por sua conta e risco e certifique-se de salvar seus trabalhos abertos antes de iniciar a limpeza.
 
 
-📄 Licença
-Este projeto está sob a licença MIT. Sinta-se à vontade para usar, modificar e distribuir.
-
+## 📄 Licença
+* Este projeto está sob a licença MIT. Sinta-se à vontade para usar, modificar e distribuir.
